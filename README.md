@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DHRUV-DIWAN
+- 👋 Hi, I’m @DHRUV-CHAUHAN
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning fullstack java 
 - 💞️ I’m looking to collaborate on websites
